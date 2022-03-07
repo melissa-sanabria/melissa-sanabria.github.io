@@ -14,7 +14,7 @@ description              : &description "I am a PostDoc in TU Dresden working us
 In 2014 I graduated as an Engineer in Computer Systems and Informatics from the Industrial University of Santander in Colombia with a Laureate Degree Project."
 url                      : https://melissa-sanabria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "/melissa-sanabria/melissa-sanabria.github.io/"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
