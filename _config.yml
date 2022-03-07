@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Melissa Sanabria"
 description              : &description "I am a PostDoc in TU Dresden working using Deep Learning in Biomedical Genomics. I have a PhD from the Côte d’Azur University in France. I obtained a MSc in Ubiquitous Networking in 2017 from the University Côte d’Azur in France with a LabEx scholarship.
 In 2014 I graduated as an Engineer in Computer Systems and Informatics from the Industrial University of Santander in Colombia with a Laureate Degree Project."
-url                      : https://melissasanabria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://melissa-sanabria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/melissasanabria.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
