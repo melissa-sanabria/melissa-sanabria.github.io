@@ -39,37 +39,37 @@ Supervision
 
 ### Master Students
 * Mamadou Diop.    
-  Applied Mathematics and Modelization (2020).    
+  Applied Mathematics and Modelization (2020). Polytech Nice-Sophia Antipolis, France.    
   Topic: Deep Learning pour l’analyse de contenu multimedia dans le domaine du sport (Deep learning for the analysis of multimedia content in sports).    
   Co-advisors: Melissa Sanabria, Frédéric Precioso    
 
 * Ruiqing Chang.    
-  Applied Mathematics and Modelization (2020).    
+  Applied Mathematics and Modelization (2020). Polytech Nice-Sophia Antipolis, France.    
   Topic: Multimodal Features for Soccer Summarization.    
   Co-advisors: Melissa Sanabria, Frédéric Precioso    
 
 * Anass Nazihi, Youssef Benjelloun    
-  Applied Mathematics and Modelization (2019).    
+  Applied Mathematics and Modelization (2019). Polytech Nice-Sophia Antipolis, France.    
   Topic: Multimodal Summarization of Soccer Games.    
   Co-advisors: Melissa Sanabria, Frédéric Precioso    
 
 * Billal El Maaroufi, Younès Salhi, Lina Sedoud.    
-  Applied Mathematics and Modelization (2019).    
+  Applied Mathematics and Modelization (2019). Polytech Nice-Sophia Antipolis, France.   
   Topic: Reconnaissance vocale multimodale (Multimodal voice recognition).    
   Co-advisors: Melissa Sanabria, Frédéric Precioso    
 
 * Sherly.    
-  Master DSC ICTLabs (2019).    
+  Master DSC ICTLabs (2019). Université Cote d'azur, France.    
   Topic: Detection of actions in sports videos using Multiple Instance Learning.    
   Co-advisors: Frédéric Precioso, Melissa Sanabria
         
 * Jose Diaz Mendoza.    
-  Master DSC ICTLabs (2018).    
+  Master DSC ICTLabs (2018). Université Cote d'azur, France.    
   Topic: Precise multi-modal segmentation of sports videos.    
   Co-advisors: Frédéric Precioso, Melissa Sanabria    
 
 * Khalil Bouzoubaa, Adrien Gambier, Valentin Moulié.    
-  Applied Mathematics and Modelization (2018).    
+  Applied Mathematics and Modelization (2018). Polytech Nice-Sophia Antipolis, France.    
   Topic: Une autre façon de regarder le sport à la téle (Another way to watch sports on TV).    
   Co-advisors: Frédéric Precioso, Melissa Sanabria    
  
@@ -78,7 +78,7 @@ Previous Work
 ---------------------- 
 * Internship: A Machine Learning Framework to predict the progress of Aortic Stenosis Disease. 2021. Canada
 * Internship: Deep Learning and Best Practices - Automation of hyperparameters selection in Deep Learning algorithms.   
-This project was part of [ROCKFlows] (http://rockflows.i3s.unice.fr) platform. 2017. France
+  This project was part of [ROCKFlows](http://rockflows.i3s.unice.fr) platform. 2017. France
 * Internship: Study of Convolutional Neural Networks for automatic zooplankton classification. 2016. France
 * Creation of an algorithm for detection of overlapped red blood cells in microscopic images of blood smears. 2014. France
 * Development of a TeleCytology platform funded by the Colombian Department of Science, Technology and Innovation (COLCIENCIAS). This project was intended to reduce the time of diagnosis by the specialist using TeleMicroscopy and Digital Image Processing techniques. 2010-2015. Colombia
