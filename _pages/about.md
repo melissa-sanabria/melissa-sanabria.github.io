@@ -15,11 +15,11 @@ I am currently working using Deep Learning in Biomedical Genomics.
 
 Education
 ---------------------- 
-* **PhD in Deep Learning**
+* **PhD in Deep Learning**    
   Université Côte d'Azur - France, 2021
   
-* **International Master in Ubiquitous Networking**
+* **International Master in Ubiquitous Networking**    
   Université Nice-Sophia Antipolis - France, 2017
 
-* **Computer Systems Engineering and Informatics**
+* **Computer Systems Engineering and Informatics**    
   Universidad Industrial de Santander - Colombia, 2014
